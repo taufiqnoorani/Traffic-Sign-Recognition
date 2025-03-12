@@ -1,11 +1,13 @@
 # Traffic-Sign-Recognition
 A Traffic Sign Recognition System using CNN
 
+## About
+
 This repository contains the code for a Traffic Sign Recognition (TSR) system that integrates weather classification (based on VGG19), image enhancement (based on EnhanceNet) and traffic sign recognition (YOLOv5). The system classifies images to determine if adverse conditions are present, enhances the images based on detected conditions, and then performs traffic sign recognition.
 
 Unfortunately, the trained model files could not be uploaded to the repository due to GitHub’s change in file size limit of 100MB. As a result, you will need to train the models yourself. The model architectures and training scripts are included in the repository, allowing you to train them using your data.
 
-## Requirements
+### Requirements
 
 To run the code, you will need to install the following packages:
 
