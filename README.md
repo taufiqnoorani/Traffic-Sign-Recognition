@@ -1,5 +1,5 @@
 # Traffic-Sign-Recognition
-
+A Traffic Sign Recognition System using CNN
 
 This repository contains the code for a Traffic Sign Recognition (TSR) system that integrates weather classification (based on VGG19), image enhancement (based on EnhanceNet) and traffic sign recognition (YOLOv5). The system classifies images to determine if adverse conditions are present, enhances the images based on detected conditions, and then performs traffic sign recognition.
 
